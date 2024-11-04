@@ -6,4 +6,4 @@ This is a python project intended to analyse the datasets of medical clinics to 
 
 This is a publicly available dataset that can be accessed [here](https://www.kaggle.com/datasets/joniarroba/noshowappointments).
 
-View my project and analysis [here](https://github.com/olubadero/Medical-Appointment-Analysis/blob/main/Insights.md), I hope you enjoy it.
+View my project and analysis [here](https://github.com/olubadero/Medical-Appointment-Analysis/blob/main/Medical_Analysis.ipynb), I hope you enjoy it.
