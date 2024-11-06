@@ -1,5 +1,8 @@
 # Medical-Appointment-Analysis
 
+![image](https://github.com/user-attachments/assets/eca2f2d2-95cc-45f6-87f1-7eca648e4f12)
+
+
 ### Problem Statement:
 
 This is a python project intended to analyse the datasets of medical clinics to determine the likely reasons why patients were not showing up for appointments they scheduled and also come up with likely recommendations to reduce or curb this.
